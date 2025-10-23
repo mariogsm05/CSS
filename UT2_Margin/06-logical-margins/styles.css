@@ -1,1 +1,6 @@
-.item { writing-mode: horizontal-tb; background:#eef; border:1px solid #99a; }
+.item 
+{ 
+    writing-mode: horizontal-tb; 
+    background:#eef; 
+    border:1px solid #99a; 
+}

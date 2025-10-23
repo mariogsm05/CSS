@@ -1,4 +1,13 @@
-body { background:#fafafa; padding:20px; }
-.card {
-  background:#fff; border:1px solid #ddd; 
+body 
+{ 
+  background:#fafafa; 
+  padding:20px; 
+}
+
+.card 
+{
+  background:#fff; 
+  border:1px solid #ddd; 
+  padding: 30px;
+  margin-bottom: 25px;
 }
