@@ -1,0 +1,28 @@
+.card 
+{ 
+    width: 360px; 
+    border:1px solid #d1d5db; 
+    border-radius:12px; 
+    overflow:hidden; 
+}
+
+.card h2 
+{ 
+    padding: 12px;
+    margin:0; 
+    background:#f3f4f6; 
+}
+
+.card img 
+{ 
+    display:block; 
+    width:100%; 
+    height:auto; 
+}
+
+.card p 
+{ 
+    padding: 24px;
+    margin:0; 
+}
+
