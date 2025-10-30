@@ -1,0 +1,25 @@
+.wrap 
+{ 
+    background:#f0fff4; 
+    border:1px solid #9ae6b4; 
+    min-height:120px; 
+}
+
+/* Tablet */
+@media (min-width: 600px) and (max-width: 1023px) 
+{
+  .wrap 
+  {
+    margin: 40px;
+  }
+}
+
+/* Escritorio */
+@media (min-width: 1024px) 
+{
+  .wrap 
+  {
+    margin: 80px auto;
+    max-width: 1000px;
+  }
+}

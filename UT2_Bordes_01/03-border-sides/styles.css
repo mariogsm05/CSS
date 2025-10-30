@@ -1,0 +1,16 @@
+.striped, .callout 
+{ 
+    padding: 16px; 
+    margin: 12px 0; 
+    background: #fff; 
+}
+
+.striped
+{
+    border-bottom: 4px solid yellow;
+}
+
+.callout
+{
+    border-left: 4px dashed blueviolet;
+}

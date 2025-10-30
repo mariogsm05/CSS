@@ -1,0 +1,8 @@
+.item 
+{ 
+    writing-mode: horizontal-tb; 
+    background:#eef; 
+    border:1px solid #99a; 
+    margin-block: 30px;
+    margin-inline: 30px; /*Margen de 30px a la izquierda y derecha*/
+}
